@@ -16,7 +16,7 @@ require("permisos.php");
         <div align="center">
         <br><br><br>
          
-						 <h1>EMPLEADOS</h1> 
+						 <h1>EMPLEADO</h1> 
                          
                          <a href="registrar.php" title="Registrar"><img src="img/registrar.png" width="64px"></a>
 

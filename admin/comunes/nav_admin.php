@@ -11,9 +11,9 @@
         <li class="dropdown pull-right">
             <a href="#" data-toggle="dropdown" class="dropdown-toggle">Admin <b class="caret"></b></a>
             <ul class="dropdown-menu">
-                  <li><a href="empleados">Empleados</a></li>
-                  <li><a href="marcados">Marcados</a></li>
-                <li><a href="cerrar_sesion.php">Salir</a></li>
+                  <li><a href="empleados">EMPLEADOS</a></li>
+                  <li><a href="marcados">MARCADOS</a></li>
+                <li><a href="cerrar_sesion.php">CERRAR SESION</a></li>
             </ul>
         </li>
     </ul>

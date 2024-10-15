@@ -35,7 +35,7 @@ $count = mysqli_num_rows($result);
     <header>
         <div align="center">
          <br><br><br>
-						 <h1>EDITAR EMPLEADO</h1><img src="img/editar.png" width="64px">
+						 <h1>EDITAR EMPLEADO </h1><img src="img/editar.png" width="64px">
 					 
 						   <form class="form-signin" action="codigo_editar.php?cedula=<?php echo $cedula; ?>" method="POST" enctype="multipart/form-data">
 

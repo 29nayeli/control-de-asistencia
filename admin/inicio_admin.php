@@ -15,7 +15,7 @@ require("permisos.php");
      <br><br><br>
 
 						  <div align="center">
-                           <h1>Bienvenido </h1>
+                           <h1>Bienvenido al sistema control de asistencia </h1>
                            <br>
  <a href="empleados/index.php" title="Empleados"><img style="width:128px" src="img/empleados.png"/></a> <a href="marcados/index.php" title="Marcados"><img style="width:128px" src="img/marcados.png"/></a></div>
  

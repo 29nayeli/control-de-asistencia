@@ -14,7 +14,7 @@ require("permisos.php");
     <header>
         <div align="center">
          <br><br><br>
-						 <h1>REGISTRAR EMPLEADO</h1><img src="img/registrar.png" width="64px">
+						 <h1>REGIATRO DE EMPLEADOS</h1><img src="img/registrar.png" width="64px">
 					 
 						   <form class="form-signin" action="codigo_registrar.php" method="POST" enctype="multipart/form-data">
 
